@@ -1,1 +1,1 @@
-Prueba técnica para la asignatura Diseño de Datos y Algoritmos
+Repositorio para la asignatura Diseño de Datos y Algoritmos.
