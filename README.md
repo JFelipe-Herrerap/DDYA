@@ -1,2 +1,2 @@
-# Prueba-t-cnica-DDYA
+DDYA
 Prueba técnica para la asignatura Diseño de Datos y Algoritmos
