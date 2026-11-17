@@ -1,4 +1,4 @@
-# Repositorio de la asignatura Diseño de Datos y Algoritmos(DDYA).
+# Repositorio de la asignatura Diseño de Datos y Algoritmos (DDYA).
 
 En este repositorio se almacenan los trabajos realizados durante el curso, organizados de acuerdo con las semanas y actividades correspondientes. Cada laboratorio contiene el desarrollo de los ejercicios propuestos por el docente, utilizando las estructuras de datos y algoritmos abordados en clase.
 
